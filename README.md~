@@ -1,0 +1,1 @@
+This provides a QSM reconstruction package modified based on the Johns Hopkins University QSM toolbox so that it is fully compatible with the MRI data acquired using the AMRI_EPI sequence from Dr. Jeff Duyn's lab and the BMIR MRI sequence from Dr. Jiaen Liu's lab.  The original JHU toolbox can be found at https://github.com/xuli99/JHUKKI_QSM_Toolbox. 
